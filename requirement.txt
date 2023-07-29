@@ -3,3 +3,7 @@ emoji
 colors
 vibrant
 Type Options
+
+Dark mode
+frontend feature
+
